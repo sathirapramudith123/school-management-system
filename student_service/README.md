@@ -46,7 +46,7 @@ source .venv/bin/activate   # Linux / Mac
 ### 3. Install dependencies
 
 ```bash
-pip install fastapi uvicorn
+pip install fastapi uvicorn httpx
 ```
 
 ### 4. Run the server
@@ -229,7 +229,7 @@ http://localhost:8001/redoc
 
 ## 👨‍💻 Author
 
-Developed as part of a **microservices-based system / research project**.
+Developed as part of a **microservices-based system**.
 
 ---
 
