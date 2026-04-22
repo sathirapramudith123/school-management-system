@@ -1,22 +1,3 @@
-<div align="center">
-
-# 🎯 School Management System
-
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-222222?style=for-the-badge)](https://www.uvicorn.org/)
-[![HTTPx](https://img.shields.io/badge/HTTPx-Client-5A29E4?style=for-the-badge)](https://www.python-httpx.org/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge)](https://docs.pydantic.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com)
-
-
-[Quick Start](#-quick-start) • [Services](#-microservices) • [API Docs](#-api-documentation) • [Documentation](#-documentation) • [Support](#-support)
-
-</div>
-
----
 # 🌐 School Management API Gateway (FastAPI)
 
 A centralized **API Gateway** built using **FastAPI** to manage and route requests across multiple microservices in the School Management System.
